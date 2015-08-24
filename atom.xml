@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://sistoxic.com/"/>
-  <updated>2015-08-05T14:29:06.141Z</updated>
+  <updated>2015-08-24T11:02:27.032Z</updated>
   <id>http://sistoxic.com/</id>
   
   <author>
@@ -15,17 +15,40 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[为了联萌]]></title>
+    <link href="http://sistoxic.com/2015/08/24/%E4%B8%BA%E4%BA%86%E8%81%94%E8%90%8C/"/>
+    <id>http://sistoxic.com/2015/08/24/为了联萌/</id>
+    <published>2015-08-24T01:32:00.000Z</published>
+    <updated>2015-08-24T11:02:03.000Z</updated>
+    <content type="html"><![CDATA[<p>&emsp;&emsp;这是一篇流水账。<br>&emsp;&emsp;<a id="more"></a><br>&emsp;&emsp;原计划开学后再开始弱校的训练，不过大约一个月前，就有各路人马开始询问和催促。大约两周前，机房可用。于是弱校就紧跟着多校的步伐开始了。<br>&emsp;&emsp;/<em>本段是无关废话</em>/ 保险起见，直接来到了北师小西门，打印店的格局已经变了，北侧全部关掉，西侧留下一家。女店主聪明干练，帮忙装订了大约一半的题目，普通话标准，应该不是湖北人。<br>出来后看到地面的牌子上写着“XXX号书店在对面树下”，回头一看，果然在树下。<br>&emsp;&emsp;除了个别队伍，12点的时候大家都到齐了。这次的亮点在于多了哈尔滨、武汉和郑州的同学。早听说武汉高校众多，他们表示回去也可以组织一下类似性质的训练。我很欣慰。<br>&emsp;&emsp;关于赛场，前期pc^2和SPJ的问题使得判题慢。大约耗费了两小时，全部恢复正常。<br>&emsp;&emsp;/<em>本段是无关废话</em>/ 期间叫了一哥下来，感叹了一下形势，聊了一些贵圈真乱，贵圈真乱和贵圈真乱的话题。<br>一哥下来很多次。<br>有一次说I题很水为什么没人过，讲到之前看提交记录，近期只有一个“北京邮电大学”的人交过I题，再往前就是两年前Glitter交的题了。我并没有意识到这是翁教队，他强忍着问“那他们当年多少题”，瞬间被学弟拆穿了。<br>还有一次下来，谈工作问题谈到某司内推成功奖量车，此时学弟又出现了：“可是我不会开车啊！”<br>再有一次就是讲Glitter其实过掉9题。<a href="http://t.cn/RLsoUad" target="_blank" rel="external">http://t.cn/RLsoUad</a><br>&emsp;&emsp;赛前简短说了几句，感觉也是硬着头皮，很多点没有说到。赛后借讲题间隙又补充了一些。<br>&emsp;&emsp;讲题过程可能有些简短。理想情况是，顺带题解以及赛中错误一起讲评。然而毕竟是理想。<br>&emsp;&emsp;/<em>本段是无关废话</em>/ 后来发现裁判机的位置就是以前常坐的位置。<br>&emsp;&emsp;<br>&emsp;&emsp;不太喜欢这样的记录方式，但是有什么更好的办法把必要的东西传承下去呢？<br>&emsp;&emsp;暂时先写这么多。<br>&emsp;&emsp;<br>&emsp;&emsp;Todo:<br>&emsp;&emsp;# 准备再充分一点<br>&emsp;&emsp;# 合榜<br>&emsp;&emsp;# 赛后分析（感觉可能想多了）</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>&emsp;&emsp;这是一篇流水账。<br>&emsp;&emsp;]]>
+    
+    </summary>
+    
+      <category term="ICPC" scheme="http://sistoxic.com/tags/ICPC/"/>
+    
+      <category term="弱校联萌" scheme="http://sistoxic.com/tags/%E5%BC%B1%E6%A0%A1%E8%81%94%E8%90%8C/"/>
+    
+      <category term="抓伏特" scheme="http://sistoxic.com/tags/%E6%8A%93%E4%BC%8F%E7%89%B9/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[math>magic]]></title>
     <link href="http://sistoxic.com/2015/08/03/math-magic/"/>
     <id>http://sistoxic.com/2015/08/03/math-magic/</id>
     <published>2015-08-03T12:05:11.000Z</published>
-    <updated>2015-08-05T14:28:10.000Z</updated>
+    <updated>2015-08-24T04:55:27.000Z</updated>
     <content type="html"><![CDATA[<p>&emsp;&emsp;某天看到自己网站的列表，突然有些无奈，于是断了再开的念想。人类是过于擅长自嗨的动物，却一生都在半途而废[1]。<br>&emsp;&emsp;所以尝试着表达一下自己，恐怕表达的内容还是我并不会表达。<br>&emsp;&emsp;当一个人十分软弱的时候，就容易受到影响。特征鲜明的东西，一段时间内读得一多，就自然会不自觉地模仿起来。<br>&emsp;&emsp;无论如何，现在打字前都需要先在脑海中念出来。这与生活本身是违背的。用笔写字的时候，可以在恍惚间写出不曾响起过的语句来。我有点理解了小时候师长为何更希望使用铅笔，也想起了肖陶扩还没有看完。<br>&emsp;&emsp;神经越长越纠缠得混乱不堪，令人无法将生活和写作所用的语言分开。也或许只是我不能分开。<br>&emsp;&emsp;这时候如果生活在方言区就会好很多。多数人披着一层普通话的皮，这也是无法探知真实性情的一个原因。<br>&emsp;&emsp;<a id="more"></a><br>&emsp;&emsp;ACL上意外地见到了墨水气息依旧浓厚的梁同学。<br>&emsp;&emsp;今晚北京的天空一并映衬着彩虹与火烧云[2]，所有人都在拍与你看，有的人爱上北京，有的人想念远方，有的人行将离开，是这世间的众生相。<br>&emsp;&emsp;夏至每天都来安利一遍。但是上次在上海跟各位学到的各色迷茫还未消化完。并不知道该不该去崇明。<br>&emsp;&emsp;<br>&emsp;&emsp;[1]张定浩《我喜爱一切不彻底的事物》<br>&emsp;&emsp;[2]此句写于8月3日</p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>&emsp;&emsp;某天看到自己网站的列表，突然有些无奈，于是断了再开的念想。人类是过于擅长自嗨的动物，却一生都在半途而废[1]。<br>&emsp;&emsp;所以尝试着表达一下自己，恐怕表达的内容还是我并不会表达。<br>&emsp;&emsp;当一个人十分软弱的时候，就容易受到影响。特征鲜明的东西，一段时间内读得一多，就自然会不自觉地模仿起来。<br>&emsp;&emsp;无论如何，现在打字前都需要先在脑海中念出来。这与生活本身是违背的。用笔写字的时候，可以在恍惚间写出不曾响起过的语句来。我有点理解了小时候师长为何更希望使用铅笔，也想起了肖陶扩还没有看完。<br>&emsp;&emsp;神经越长越纠缠得混乱不堪，令人无法将生活和写作所用的语言分开。也或许只是我不能分开。<br>&emsp;&emsp;这时候如果生活在方言区就会好很多。多数人披着一层普通话的皮，这也是无法探知真实性情的一个原因。<br>&emsp;&emsp;]]>
     
     </summary>
+    
+      <category term="纪实主义" scheme="http://sistoxic.com/tags/%E7%BA%AA%E5%AE%9E%E4%B8%BB%E4%B9%89/"/>
     
   </entry>
   
@@ -34,13 +57,15 @@
     <link href="http://sistoxic.com/2015/07/23/%E5%A4%A7%E6%9A%91/"/>
     <id>http://sistoxic.com/2015/07/23/大暑/</id>
     <published>2015-07-23T13:58:08.000Z</published>
-    <updated>2015-07-23T14:00:54.000Z</updated>
+    <updated>2015-08-24T04:55:25.000Z</updated>
     <content type="html"><![CDATA[<p>&emsp;&emsp;今天11时30分，大暑至。</p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>&emsp;&emsp;今天11时30分，大暑至。</p>
 ]]>
     </summary>
+    
+      <category term="节气" scheme="http://sistoxic.com/tags/%E8%8A%82%E6%B0%94/"/>
     
   </entry>
   
@@ -49,12 +74,14 @@
     <link href="http://sistoxic.com/2015/07/12/%E6%88%91%E4%BB%AC%E6%9C%89%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E7%9A%84%E8%A7%82%E6%B5%8B%E6%97%B6%E9%97%B4/"/>
     <id>http://sistoxic.com/2015/07/12/我们有四分之一的观测时间/</id>
     <published>2015-07-12T12:49:45.000Z</published>
-    <updated>2015-07-14T13:47:19.000Z</updated>
+    <updated>2015-08-24T04:55:25.000Z</updated>
     <content type="html"><![CDATA[<p>&emsp;&emsp;睡<br>&emsp;&emsp;我还没从前一次沉睡中醒来<br>&emsp;&emsp;前一次沉睡<br>&emsp;&emsp;还没开始<br>&emsp;&emsp;<br>&emsp;&emsp;一睁眼来到三百里外<br>&emsp;&emsp;草木茂盛<br>&emsp;&emsp;山底仿佛有一处<br>&emsp;&emsp;世外桃源<br>&emsp;&emsp;<br>&emsp;&emsp;眼睛藏在球形的镜片后面<br>&emsp;&emsp;看不清我们身份的讲解员<br>&emsp;&emsp;一段历史中<br>&emsp;&emsp;萌生冲动<br>&emsp;&emsp;想要把看到的一切写下来<br>&emsp;&emsp;想要表白心迹<br>&emsp;&emsp;<br>&emsp;&emsp;少女包中藏起来<br>&emsp;&emsp;加油用的<br>&emsp;&emsp;电子烟<br>&emsp;&emsp;<br>&emsp;&emsp;他们消失在星空之外<br>&emsp;&emsp;星空在云之外<br>&emsp;&emsp;而云去寻找她<br>&emsp;&emsp;好让我们在银河中安眠<br>&emsp;&emsp;</p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>&emsp;&emsp;睡<br>&emsp;&emsp;我还没从前一次沉睡中醒来<br>&emsp;&emsp;前一次沉睡<br>&emsp;&emsp;还没开始<br>&emsp;&emsp;<br>&emsp;&emsp;一睁眼来到三百里外<br>&emsp;&ems]]>
     </summary>
+    
+      <category term="纪实主义" scheme="http://sistoxic.com/tags/%E7%BA%AA%E5%AE%9E%E4%B8%BB%E4%B9%89/"/>
     
   </entry>
   
@@ -63,13 +90,17 @@
     <link href="http://sistoxic.com/2015/07/12/%E8%82%96%E9%99%B6%E6%89%A9%E4%B8%8E%E5%AF%9D%E5%AE%A4%E6%A5%BC%E5%85%BD/"/>
     <id>http://sistoxic.com/2015/07/12/肖陶扩与寝室楼兽/</id>
     <published>2015-07-12T12:28:40.000Z</published>
-    <updated>2015-07-14T13:16:50.000Z</updated>
+    <updated>2015-08-24T04:55:26.000Z</updated>
     <content type="html"><![CDATA[<p>&emsp;&emsp;<br>&emsp;&emsp;<br>&emsp;&emsp;<br><a id="more"></a><br>&emsp;&emsp;这太难了太难了<br>&emsp;&emsp;太难写先占坑</p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>&emsp;&emsp;<br>&emsp;&emsp;<br>&emsp;&emsp;<br>]]>
     
     </summary>
+    
+      <category term="纪实主义" scheme="http://sistoxic.com/tags/%E7%BA%AA%E5%AE%9E%E4%B8%BB%E4%B9%89/"/>
+    
+      <category term="抓伏特" scheme="http://sistoxic.com/tags/%E6%8A%93%E4%BC%8F%E7%89%B9/"/>
     
   </entry>
   
@@ -78,13 +109,15 @@
     <link href="http://sistoxic.com/2015/07/01/%E5%88%AB%E9%87%8C%E7%A7%91%E5%A4%AB%E6%9C%89%E4%B8%80%E6%9C%B5%E8%8A%B1/"/>
     <id>http://sistoxic.com/2015/07/01/别里科夫有一朵花/</id>
     <published>2015-07-01T00:35:41.000Z</published>
-    <updated>2015-07-01T00:37:53.000Z</updated>
+    <updated>2015-08-24T04:55:25.000Z</updated>
     <content type="html"><![CDATA[<p>&emsp;&emsp;别里科夫有一朵花<br>&emsp;&emsp;别里科夫有一朵绿色的花<br><a id="more"></a><br>&emsp;&emsp;啊，他不知道那是什么花！<br>&emsp;&emsp;</p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>&emsp;&emsp;别里科夫有一朵花<br>&emsp;&emsp;别里科夫有一朵绿色的花<br>]]>
     
     </summary>
+    
+      <category term="纪实主义" scheme="http://sistoxic.com/tags/%E7%BA%AA%E5%AE%9E%E4%B8%BB%E4%B9%89/"/>
     
   </entry>
   
@@ -93,13 +126,15 @@
     <link href="http://sistoxic.com/2015/06/08/%E9%80%9A%E9%80%8F/"/>
     <id>http://sistoxic.com/2015/06/08/通透/</id>
     <published>2015-06-08T14:05:06.000Z</published>
-    <updated>2015-06-08T14:06:20.000Z</updated>
+    <updated>2015-08-24T04:55:25.000Z</updated>
     <content type="html"><![CDATA[<p>&emsp;&emsp;在如此通透的世界里<br>&emsp;&emsp;你却没有通透的灵魂</p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>&emsp;&emsp;在如此通透的世界里<br>&emsp;&emsp;你却没有通透的灵魂</p>
 ]]>
     </summary>
+    
+      <category term="纪实主义" scheme="http://sistoxic.com/tags/%E7%BA%AA%E5%AE%9E%E4%B8%BB%E4%B9%89/"/>
     
   </entry>
   
@@ -108,13 +143,15 @@
     <link href="http://sistoxic.com/2015/05/31/%E6%9C%88%E5%8D%8A/"/>
     <id>http://sistoxic.com/2015/05/31/月半/</id>
     <published>2015-05-31T04:26:10.000Z</published>
-    <updated>2015-05-31T04:33:33.000Z</updated>
+    <updated>2015-08-24T04:55:25.000Z</updated>
     <content type="html"><![CDATA[<p>&emsp;&emsp;五月过去了一半<br>&emsp;&emsp;我本不该纪念它<br>&emsp;&emsp;甚至在突如其来的末尾<br>&emsp;&emsp;<br>&emsp;&emsp;没有什么是完整的<br>&emsp;&emsp;在你无法得知全貌<br>&emsp;&emsp;所有的只能算作一半<br>&emsp;&emsp;然而是否有多于三个的一半？<br>&emsp;&emsp;<br>&emsp;&emsp;耗尽也无所谓尽<br>&emsp;&emsp;喷薄也并非完全<br>&emsp;&emsp;<br><a id="more"></a><br>&emsp;&emsp;吃起外卖，越来越胖</p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>&emsp;&emsp;五月过去了一半<br>&emsp;&emsp;我本不该纪念它<br>&emsp;&emsp;甚至在突如其来的末尾<br>&emsp;&emsp;<br>&emsp;&emsp;没有什么是完整的<br>&emsp;&emsp;在你无法得知全貌<br>&emsp;&emsp;所有的只能算作一半<br>&emsp;&emsp;然而是否有多于三个的一半？<br>&emsp;&emsp;<br>&emsp;&emsp;耗尽也无所谓尽<br>&emsp;&emsp;喷薄也并非完全<br>&emsp;&emsp;<br>]]>
     
     </summary>
+    
+      <category term="纪实主义" scheme="http://sistoxic.com/tags/%E7%BA%AA%E5%AE%9E%E4%B8%BB%E4%B9%89/"/>
     
   </entry>
   
@@ -123,13 +160,15 @@
     <link href="http://sistoxic.com/2015/05/27/%E7%BA%AA%E5%BF%B5mRNA/"/>
     <id>http://sistoxic.com/2015/05/27/纪念mRNA/</id>
     <published>2015-05-27T03:02:43.000Z</published>
-    <updated>2015-05-28T01:07:38.000Z</updated>
+    <updated>2015-08-24T04:55:26.000Z</updated>
     <content type="html"><![CDATA[<p>&emsp;&emsp;我知道那样许多犀利正直活跃至此的人，当这些名号终于汇集于一处，竟都指向同一个人，而他却也永远地消失了。<br>&emsp;&emsp;<br>&emsp;&emsp;愿这个世界拥有更多斗士。</p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>&emsp;&emsp;我知道那样许多犀利正直活跃至此的人，当这些名号终于汇集于一处，竟都指向同一个人，而他却也永远地消失了。<br>&emsp;&emsp;<br>&emsp;&emsp;愿这个世界拥有更多斗士。</p>
 ]]>
     </summary>
+    
+      <category term="纪实主义" scheme="http://sistoxic.com/tags/%E7%BA%AA%E5%AE%9E%E4%B8%BB%E4%B9%89/"/>
     
   </entry>
   
@@ -138,12 +177,14 @@
     <link href="http://sistoxic.com/2015/05/21/%E7%A5%9E%E6%B2%A1%E6%9C%89%E5%96%9C%E6%80%92%E5%93%80%E4%B9%90/"/>
     <id>http://sistoxic.com/2015/05/21/神没有喜怒哀乐/</id>
     <published>2015-05-21T12:04:13.000Z</published>
-    <updated>2015-05-21T12:30:51.000Z</updated>
+    <updated>2015-08-24T04:55:25.000Z</updated>
     <content type="html"><![CDATA[<p>&emsp;&emsp;神没有喜怒哀乐<br>&emsp;&emsp;而它却命名了一件心情<br>&emsp;&emsp;<br>&emsp;&emsp;一块巨大的空气砖砸到头上<br>&emsp;&emsp;我养的蚊子还活着<br>&emsp;&emsp;<br>&emsp;&emsp;有几个我，我最后才知道<br>&emsp;&emsp;<br>&emsp;&emsp;北落师门的家属是北河三<br>&emsp;&emsp;<br>&emsp;&emsp;这梦沉重像你<br>&emsp;&emsp;大梦一场的董二千先生</p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>&emsp;&emsp;神没有喜怒哀乐<br>&emsp;&emsp;而它却命名了一件心情<br>&emsp;&emsp;<br>&emsp;&emsp;一块巨大的空气砖砸到头上<br>&emsp;&emsp;我养的蚊子还活着<br>&emsp;&emsp;<br>&ems]]>
     </summary>
+    
+      <category term="纪实主义" scheme="http://sistoxic.com/tags/%E7%BA%AA%E5%AE%9E%E4%B8%BB%E4%B9%89/"/>
     
   </entry>
   
@@ -152,12 +193,16 @@
     <link href="http://sistoxic.com/2015/05/13/%E6%B6%88%E5%A4%B1%E7%9A%84%E7%9B%B4%E6%92%AD/"/>
     <id>http://sistoxic.com/2015/05/13/消失的直播/</id>
     <published>2015-05-13T14:24:17.000Z</published>
-    <updated>2015-05-20T03:05:27.000Z</updated>
+    <updated>2015-08-24T04:55:25.000Z</updated>
     <content type="html"><![CDATA[<p>&emsp;&emsp;Все мгновенно，все пройдёт; Что пройдёт, то будет мило.<br>&emsp;&emsp;<br>&emsp;&emsp;最近一两年通过各种方式参与了几场ACM比赛的直（转）播，写一写为接下来的直播助兴。<br>&emsp;&emsp;上面那句俄文的意思是，这些直（转）播，我一场都没有看到过。<br>&emsp;&emsp;<br>&emsp;&emsp;懒懒懒，豆角树都开花了。还是看直播吧，这次不会消失啦。<br>&emsp;&emsp;<br>&emsp;&emsp;<br>&emsp;&emsp;To be continue…</p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>&emsp;&emsp;Все мгновенно，все пройдёт; Что пройдёт, то будет мило.<br>&emsp;&emsp;<br>&emsp;&emsp;最近一两年通过各种方式参与了几场ACM比赛的直（转）播，写一写为接下来的直播助]]>
     </summary>
+    
+      <category term="ICPC" scheme="http://sistoxic.com/tags/ICPC/"/>
+    
+      <category term="抓伏特" scheme="http://sistoxic.com/tags/%E6%8A%93%E4%BC%8F%E7%89%B9/"/>
     
   </entry>
   
@@ -166,12 +211,14 @@
     <link href="http://sistoxic.com/2015/05/11/%E8%B7%9F%E5%8C%97%E6%BC%82%E9%9D%92%E5%B9%B4%E8%AE%B2%E8%AF%97/"/>
     <id>http://sistoxic.com/2015/05/11/跟北漂青年讲诗/</id>
     <published>2015-05-11T02:47:25.000Z</published>
-    <updated>2015-05-11T03:45:32.000Z</updated>
+    <updated>2015-08-24T04:55:25.000Z</updated>
     <content type="html"><![CDATA[<p>&emsp;&emsp;有一个北漂青年他不谈论理想<br>&emsp;&emsp;红酒瓶上的Dynasty看成了Destiny怎么办<br>&emsp;&emsp;而命运却要我与他讲诗<br>&emsp;&emsp;<br>&emsp;&emsp;我总不能讲爱情<br>&emsp;&emsp;以及攀援在爱情高枝上的一切<br>&emsp;&emsp;纵使对其他一无所知<br>&emsp;&emsp;<br>&emsp;&emsp;尔后念了《挽歌》却并没有告诉他这是一首挽歌<br>&emsp;&emsp;月色正好<br>&emsp;&emsp;真相的部分也是真相<br>&emsp;&emsp;<br>&emsp;&emsp;然而我们的北漂青年说自己是个主持人<br>&emsp;&emsp;喜欢鞠萍姐姐和倪萍阿姨<br>&emsp;&emsp;我想说“她们都没有我们办公室的刘萍漂亮”但我忍住了<br>&emsp;&emsp;<br>&emsp;&emsp;天津是个好地方<br>&emsp;&emsp;少侠来一个肉夹馍吧</p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>&emsp;&emsp;有一个北漂青年他不谈论理想<br>&emsp;&emsp;红酒瓶上的Dynasty看成了Destiny怎么办<br>&emsp;&emsp;而命运却要我与他讲诗<br>&emsp;&emsp;<br>&emsp;&emsp;我总不能讲爱情<br>&e]]>
     </summary>
+    
+      <category term="纪实主义" scheme="http://sistoxic.com/tags/%E7%BA%AA%E5%AE%9E%E4%B8%BB%E4%B9%89/"/>
     
   </entry>
   
@@ -180,13 +227,15 @@
     <link href="http://sistoxic.com/2015/04/02/%E8%A5%BF%E6%A0%BC%E7%9A%84%E7%9B%B8%E4%BE%9D%E4%B8%BA%E5%91%BD/"/>
     <id>http://sistoxic.com/2015/04/02/西格的相依为命/</id>
     <published>2015-04-02T03:48:58.000Z</published>
-    <updated>2015-04-06T14:55:59.000Z</updated>
+    <updated>2015-08-24T04:55:26.000Z</updated>
     <content type="html"><![CDATA[<p>&emsp;&emsp;第一次拼对alaya的id，却是在考据的咆哮下面。但终究还是没有拼。<br>&emsp;&emsp;然而我想说的不是这个。<br>&emsp;&emsp;记得有一次跟焦导去看北国，最后五个女人站在台上大喊自己的经历和情感。焦导说，生活中的女人不会如此歇斯底里……吧。<br>&emsp;&emsp;然而我想说的也不是这个。<br>&emsp;&emsp;三个月前考据回来给我讲了许多故事。我只记住一句，你的证明就像吐槽一样行云流水。<br>&emsp;&emsp;我也不全是想说这个。<br>&emsp;&emsp;最后还是给alaya说了一句打嘲的话“要啥自行车”。<a id="more"></a><br>&emsp;&emsp;我此刻也想起了西格当年说的“相依为命”，其实是这四个字打动了我。<br>&emsp;&emsp;西格问它还好吗，我回答说正在跟我相依为命。<br>&emsp;&emsp;我问西格还好吗，西格说，我买了一辆新的，又拿它换了一辆新的。<br>&emsp;&emsp;但是两辆加起来还是没有原来的好。<br>&emsp;&emsp;在说前面的一两天，北京刚好下雨了，相依为命被冲洗一新。<br>&emsp;&emsp;再前面一两天，我带着它拐弯的时候摔在了花丛里，手上开了一道口子。就想起来上一次摔跤，是在完全刚刚好一年前的时候。<br>&emsp;&emsp;想起来一年前我说“明年来”，就成真了。<br>&emsp;&emsp;说生活是一个圈，它就真的是一个圈。<br>&emsp;&emsp;有一点像《土拨鼠节》。<br>&emsp;&emsp;我想说的就是这部电影而已。</p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>&emsp;&emsp;第一次拼对alaya的id，却是在考据的咆哮下面。但终究还是没有拼。<br>&emsp;&emsp;然而我想说的不是这个。<br>&emsp;&emsp;记得有一次跟焦导去看北国，最后五个女人站在台上大喊自己的经历和情感。焦导说，生活中的女人不会如此歇斯底里……吧。<br>&emsp;&emsp;然而我想说的也不是这个。<br>&emsp;&emsp;三个月前考据回来给我讲了许多故事。我只记住一句，你的证明就像吐槽一样行云流水。<br>&emsp;&emsp;我也不全是想说这个。<br>&emsp;&emsp;最后还是给alaya说了一句打嘲的话“要啥自行车”。]]>
     
     </summary>
+    
+      <category term="纪实主义" scheme="http://sistoxic.com/tags/%E7%BA%AA%E5%AE%9E%E4%B8%BB%E4%B9%89/"/>
     
   </entry>
   
@@ -195,12 +244,14 @@
     <link href="http://sistoxic.com/2015/03/25/%E7%BB%86%E9%95%BF%E7%9A%84%E4%B8%9C%E8%A5%BF%E9%83%BD%E4%BC%9A%E5%A4%B1%E5%8E%BB/"/>
     <id>http://sistoxic.com/2015/03/25/细长的东西都会失去/</id>
     <published>2015-03-25T06:49:35.000Z</published>
-    <updated>2015-03-25T11:27:44.000Z</updated>
+    <updated>2015-08-24T04:55:26.000Z</updated>
     <content type="html"><![CDATA[<p>&emsp;&emsp;每一件细长的东西都会失去<br>&emsp;&emsp;刻着苍白唐诗的洞箫与公交车一起消失了<br>&emsp;&emsp;还有白色的绿色的紫色的不知道什么颜色的伞<br>&emsp;&emsp;挂在公交车和地铁的横杠上<br>&emsp;&emsp;还有头发<br>&emsp;&emsp;还有未打成结的红色丝线<br>&emsp;&emsp;思念也是细长的<br>&emsp;&emsp;把它缠绕成毛线球<br>&emsp;&emsp;绕成一颗<br>&emsp;&emsp;掐断一次<br>&emsp;&emsp;线头悄悄埋进去<br>&emsp;&emsp;到了傍晚就散落在天上<br>&emsp;&emsp;与红色的太阳一起<br>&emsp;&emsp;然后天空介入了梦境<br>&emsp;&emsp;梦里面天地是巨大的屏<br>&emsp;&emsp;触摸星星获得分数<br>&emsp;&emsp;但是任何星星都不要真的消失<br>&emsp;&emsp;虽然寻找艰难<br>&emsp;&emsp;人马座又变亮了<br>&emsp;&emsp;细长的光线从你的世界的洞口射进来<br>&emsp;&emsp;而细长的东西都会失去<br>&emsp;&emsp;你会获得所有的光</p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>&emsp;&emsp;每一件细长的东西都会失去<br>&emsp;&emsp;刻着苍白唐诗的洞箫与公交车一起消失了<br>&emsp;&emsp;还有白色的绿色的紫色的不知道什么颜色的伞<br>&emsp;&emsp;挂在公交车和地铁的横杠上<br>&emsp;&emsp]]>
     </summary>
+    
+      <category term="纪实主义" scheme="http://sistoxic.com/tags/%E7%BA%AA%E5%AE%9E%E4%B8%BB%E4%B9%89/"/>
     
   </entry>
   
@@ -209,12 +260,14 @@
     <link href="http://sistoxic.com/2015/03/11/MMaMarMarch/"/>
     <id>http://sistoxic.com/2015/03/11/MMaMarMarch/</id>
     <published>2015-03-11T06:17:41.000Z</published>
-    <updated>2015-03-11T06:52:04.000Z</updated>
+    <updated>2015-08-24T04:55:25.000Z</updated>
     <content type="html"><![CDATA[<p>&emsp;&emsp;三月三月<br>&emsp;&emsp;MMaMarMars<br>&emsp;&emsp;你会不会抬头再望着那颗红色的星<br>&emsp;&emsp;“啊，故乡！”<br>&emsp;&emsp;三月三月<br>&emsp;&emsp;MMaMarMarch<br>&emsp;&emsp;你走在怎样的征途上<br>&emsp;&emsp;路是什么样子的<br>&emsp;&emsp;河是什么样子的<br>&emsp;&emsp;床是什么样子的<br>&emsp;&emsp;十个你是不是都醒来啦</p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>&emsp;&emsp;三月三月<br>&emsp;&emsp;MMaMarMars<br>&emsp;&emsp;你会不会抬头再望着那颗红色的星<br>&emsp;&emsp;“啊，故乡！”<br>&emsp;&emsp;三月三月<br>&emsp;&emsp;MMaMa]]>
     </summary>
+    
+      <category term="纪实主义" scheme="http://sistoxic.com/tags/%E7%BA%AA%E5%AE%9E%E4%B8%BB%E4%B9%89/"/>
     
   </entry>
   
@@ -223,13 +276,19 @@
     <link href="http://sistoxic.com/2015/02/13/%E5%BD%93%E6%88%91%E4%BB%AC%E8%B0%88%E8%AE%BA%E9%AD%94%E6%B3%95%E6%97%B6%E6%88%91%E4%BB%AC%E5%9C%A8%E8%B0%88%E8%AE%BA%E4%BB%80%E4%B9%88/"/>
     <id>http://sistoxic.com/2015/02/13/当我们谈论魔法时我们在谈论什么/</id>
     <published>2015-02-13T06:16:28.000Z</published>
-    <updated>2015-05-27T14:20:53.000Z</updated>
+    <updated>2015-08-24T04:55:25.000Z</updated>
     <content type="html"><![CDATA[<p>&emsp;&emsp;——致Camp<br>&emsp;&emsp;送给Camp和叉。<br>&emsp;&emsp;这个题目起大了。<br>&emsp;&emsp;然后待续吧。<br><a id="more"></a></p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>&emsp;&emsp;——致Camp<br>&emsp;&emsp;送给Camp和叉。<br>&emsp;&emsp;这个题目起大了。<br>&emsp;&emsp;然后待续吧。<br>]]>
     
     </summary>
+    
+      <category term="ICPC" scheme="http://sistoxic.com/tags/ICPC/"/>
+    
+      <category term="Camp" scheme="http://sistoxic.com/tags/Camp/"/>
+    
+      <category term="抓伏特" scheme="http://sistoxic.com/tags/%E6%8A%93%E4%BC%8F%E7%89%B9/"/>
     
   </entry>
   
@@ -238,12 +297,14 @@
     <link href="http://sistoxic.com/2015/01/25/%E4%B8%9C%E6%A1%A5%E8%A5%BF%E6%A1%A5/"/>
     <id>http://sistoxic.com/2015/01/25/东桥西桥/</id>
     <published>2015-01-25T09:51:37.000Z</published>
-    <updated>2015-01-25T13:30:53.000Z</updated>
+    <updated>2015-08-24T04:55:25.000Z</updated>
     <content type="html"><![CDATA[<p>&emsp;&emsp;我每天要经过两座桥，东桥和西桥。桥下面是川流不息的车辆人群。<br>&emsp;&emsp;西桥是长长的缓缓的弯曲的坡，东桥是台阶。我不太喜欢爬台阶，但这与它们无关。<br>&emsp;&emsp;西桥是看风景的好地方。早上走上桥，朝阳也从另一端升起来。晚上在桥上，距离星辰很近。<br>&emsp;&emsp;东桥却要热闹的多。<br>&emsp;&emsp;桥上面趴着乞讨的老者，有时会带三只绒绒的小狗。天气暖和了，有老太太把民族绣花与银项圈摆满半面地。贴膜骑士几乎从不缺席，与众人挑战的物理理论小喷绘，悬赏从2000一路攀升到10000，后来又升级成了不那么薄的书，后来书旁边又摆上了卡通卡套，后来旁边又摆了一排耳套，毛茸茸的看上去很暖。<br>&emsp;&emsp;桥脚边是来来去去的小摊贩。我仿佛在这里买过一个绿色的杯具。<br>&emsp;&emsp;桥下面剐蹭连连。9月的一个午后，眼见着一辆白色轿车飞起翻身落地，车顶抵着地面作轴，打转才停，幸好司机无事。<br>&emsp;&emsp;在不久前，东桥和西桥都有了编号。<br>&emsp;&emsp;可是桥太多我不记得。<br>&emsp;&emsp;我心里面还有很多桥，梦里面也还有很多桥。<br>&emsp;&emsp;走过这些桥千万遍，只是风大的时候会有点难过。</p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>&emsp;&emsp;我每天要经过两座桥，东桥和西桥。桥下面是川流不息的车辆人群。<br>&emsp;&emsp;西桥是长长的缓缓的弯曲的坡，东桥是台阶。我不太喜欢爬台阶，但这与它们无关。<br>&emsp;&emsp;西桥是看风景的好地方。早上走上桥，朝阳也从另一端升起]]>
     </summary>
+    
+      <category term="纪实主义" scheme="http://sistoxic.com/tags/%E7%BA%AA%E5%AE%9E%E4%B8%BB%E4%B9%89/"/>
     
   </entry>
   
@@ -252,13 +313,15 @@
     <link href="http://sistoxic.com/2015/01/19/%E6%AF%8F%E4%B8%AA%E4%BA%BA%E8%B5%B0%E8%BF%91%E4%BA%86%E9%83%BD%E6%98%AF%E6%B7%B1%E6%B7%B1%E7%9A%84%E8%8B%A6%E6%A5%9A/"/>
     <id>http://sistoxic.com/2015/01/19/每个人走近了都是深深的苦楚/</id>
     <published>2015-01-19T01:43:08.000Z</published>
-    <updated>2015-01-19T01:44:37.000Z</updated>
+    <updated>2015-08-24T04:55:25.000Z</updated>
     <content type="html"><![CDATA[<p>&emsp;&emsp;每个人走近了都是深深的苦楚<br>&emsp;&emsp;请走近我<br>&emsp;&emsp;发现<a id="more"></a><br>&emsp;&emsp;我消失啦！</p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>&emsp;&emsp;每个人走近了都是深深的苦楚<br>&emsp;&emsp;请走近我<br>&emsp;&emsp;发现]]>
     
     </summary>
+    
+      <category term="纪实主义" scheme="http://sistoxic.com/tags/%E7%BA%AA%E5%AE%9E%E4%B8%BB%E4%B9%89/"/>
     
   </entry>
   
@@ -267,7 +330,7 @@
     <link href="http://sistoxic.com/2015/01/18/%E6%A0%B9%E6%9C%AC%E6%97%A0%E6%B3%95%E5%BC%80%E5%A7%8B/"/>
     <id>http://sistoxic.com/2015/01/18/根本无法开始/</id>
     <published>2015-01-18T03:06:57.000Z</published>
-    <updated>2015-01-18T03:41:51.000Z</updated>
+    <updated>2015-08-24T04:55:25.000Z</updated>
     <content type="html"><![CDATA[<p>&emsp;&emsp;开始而又根本无法开始。</p>
 <p>&emsp;&emsp;比如我对着这个标题发呆了半个小时，而往事拉扯着你。</p>
 ]]></content>
