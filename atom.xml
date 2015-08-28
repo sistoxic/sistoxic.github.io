@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://sistoxic.com/"/>
-  <updated>2015-08-25T14:04:29.960Z</updated>
+  <updated>2015-08-28T10:05:38.705Z</updated>
   <id>http://sistoxic.com/</id>
   
   <author>
@@ -13,6 +13,22 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[为了庆祝李博结婚]]></title>
+    <link href="http://sistoxic.com/2015/08/27/%E4%B8%BA%E4%BA%86%E5%BA%86%E7%A5%9D%E6%9D%8E%E5%8D%9A%E7%BB%93%E5%A9%9A/"/>
+    <id>http://sistoxic.com/2015/08/27/为了庆祝李博结婚/</id>
+    <published>2015-08-27T15:04:23.000Z</published>
+    <updated>2015-08-28T10:05:23.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="/img/lb.jpg" alt="."><br>&emsp;&emsp;为了庆祝李博结婚<br>&emsp;&emsp;我们去看了李博的演出<br>&emsp;&emsp;把手给我<br>&emsp;&emsp;章要盖在手心<br>&emsp;&emsp;还是手背呢<br>&emsp;&emsp;咦为什么没有印泥<br>&emsp;&emsp;我想要去见证<br>&emsp;&emsp;而我只能祝福<br>&emsp;&emsp;天空圆月很美<br>&emsp;&emsp;你能送我拨片么<br>&emsp;&emsp;你能送我拨片吗</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="/img/lb.jpg" alt="."><br>&emsp;&emsp;为了庆祝李博结婚<br>&emsp;&emsp;我们去看了李博的演出<br>&emsp;&emsp;把手给我<br>&emsp;&emsp;章要盖在手心<br>&emsp;&ems]]>
+    </summary>
+    
+      <category term="纪实主义" scheme="http://sistoxic.com/tags/%E7%BA%AA%E5%AE%9E%E4%B8%BB%E4%B9%89/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[新知]]></title>
@@ -338,23 +354,6 @@
     </summary>
     
       <category term="纪实主义" scheme="http://sistoxic.com/tags/%E7%BA%AA%E5%AE%9E%E4%B8%BB%E4%B9%89/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[根本无法开始]]></title>
-    <link href="http://sistoxic.com/2015/01/18/%E6%A0%B9%E6%9C%AC%E6%97%A0%E6%B3%95%E5%BC%80%E5%A7%8B/"/>
-    <id>http://sistoxic.com/2015/01/18/根本无法开始/</id>
-    <published>2015-01-18T03:06:57.000Z</published>
-    <updated>2015-08-24T04:55:25.000Z</updated>
-    <content type="html"><![CDATA[<p>&emsp;&emsp;开始而又根本无法开始。</p>
-<p>&emsp;&emsp;比如我对着这个标题发呆了半个小时，而往事拉扯着你。</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>&emsp;&emsp;开始而又根本无法开始。</p>
-<p>&emsp;&emsp;比如我对着这个标题发呆了半个小时，而往事拉扯着你。</p>
-]]>
-    </summary>
     
   </entry>
   
